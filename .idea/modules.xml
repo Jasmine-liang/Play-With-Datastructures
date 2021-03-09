@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Play-With-Datastructures.iml" filepath="$PROJECT_DIR$/.idea/Play-With-Datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set-Map/Set-Map.iml" filepath="$PROJECT_DIR$/Set-Map/Set-Map.iml" />
+    </modules>
+  </component>
+</project>
